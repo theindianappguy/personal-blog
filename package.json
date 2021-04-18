@@ -73,7 +73,7 @@
     "invariant": "^2.2.4",
     "katex": "^0.13.2",
     "lodash": "^4.17.21",
-    "netlify-cms-app": "^2.14.14",
+    "netlify-cms-app": "^2.14.45",
     "node-sass": "^5.0.0",
     "normalize-scss": "^7.0.1",
     "prismjs": "^1.23.0",
