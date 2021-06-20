@@ -1,6 +1,7 @@
-/** 
+/**
  * Variables
  */
+@use "sass:math";
 
 // Colors
 $color-base: #222;
@@ -25,7 +26,7 @@ $typographic-base-font-color: $color-base;
 $typographic-link-p-font-color: $color-primary;
 $typographic-link-s-font-color: $color-secondary;
 
-$typographic-leading: round(16 * ($typographic-root-font-size / 100) * $typographic-base-line-height);
+$typographic-leading: round(16 * math.div($typographic-root-font-size, 100) * $typographic-base-line-height);
 
 // Buttons
 $button-height: 35px;
