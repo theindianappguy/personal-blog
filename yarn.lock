@@ -12286,10 +12286,10 @@ jwt-decode@^3.0.0:
   resolved "https://registry.yarnpkg.com/jwt-decode/-/jwt-decode-3.1.2.tgz#3fb319f3675a2df0c2895c8f5e9fa4b67b04ed59"
   integrity sha512-UfpWE/VZn0iP50d8cz9NrZLM9lSWhcJ+0Gt/nm4by88UL+J1SiKN8/5dkjMmbEzwL2CAe+67GsegCbIKtbp75A==
 
-katex@^0.13.12:
-  version "0.13.12"
-  resolved "https://registry.yarnpkg.com/katex/-/katex-0.13.12.tgz#9fd4f75eba046fbee7b6e2d0056daca7fd43ccca"
-  integrity sha512-KNMa3YsTsEYEzOHH+DWbEOjxNFEKCRtWarMIuC+jHkd0BXTkC8ZwBbYvIbtrJt1d969Pi5XUMuo9jWUPUB+gKQ==
+katex@^0.13.13:
+  version "0.13.13"
+  resolved "https://registry.yarnpkg.com/katex/-/katex-0.13.13.tgz#15a796e95516869bc6d483443b58b2df872ee40f"
+  integrity sha512-cCMcil4jwMm7behpXGiQfXJA29sko/Gd/26iCsr53Dv5Jn2iHbHyEb14dm9uVrIijUXx6Zz1WhlFhHE6DckvkQ==
   dependencies:
     commander "^6.0.0"
 
