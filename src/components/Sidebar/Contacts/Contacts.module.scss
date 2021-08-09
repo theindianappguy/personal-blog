@@ -1,11 +1,11 @@
-@import '../../../assets/scss/variables';
-@import '../../../assets/scss/mixins';
+@import "../../../assets/scss/variables";
+@import "../../../assets/scss/mixins";
 
 .contacts {
   @include margin-bottom(1);
 
   &__list {
-    display: flex;
+    display: none;
     flex-flow: row wrap;
     flex-grow: 0;
     flex-shrink: 0;
@@ -32,16 +32,12 @@
         border: 0;
         display: flex;
         color: $color-base;
-  
+
         &:hover,
         &:focus {
           color: $color-primary;
         }
-
       }
-
     }
-
   }
-
 }
