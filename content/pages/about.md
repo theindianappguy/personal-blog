@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-👋 Hi, I'm Sanskar and I make apps.
+👋 Hi, I'm Sanskar and I build and promote apps.
 
 I am currently working on
 
