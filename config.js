@@ -3,12 +3,13 @@
 module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
-  title: "Blog by Sanskar Tiwari",
-  subtitle: "I build micro saas business and document bootstrapping journey.",
+  title: "Sanskar Tiwari",
+  subtitle:
+    "I build and grow micro saas business and document bootstrapping journey.",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 6,
-  googleAnalyticsId: "UA-73379983-2",
+  googleAnalyticsId: "G-ETB4MH1SYH",
   useKatex: false,
   menu: [
     {
@@ -19,10 +20,10 @@ module.exports = {
       label: "About me",
       path: "/pages/about",
     },
-    {
-      label: "Contact me",
-      path: "/pages/contacts",
-    },
+    // {
+    //   label: "Contact me",
+    //   path: "/pages/contacts",
+    // },
   ],
   author: {
     name: "Sanskar Tiwari",
