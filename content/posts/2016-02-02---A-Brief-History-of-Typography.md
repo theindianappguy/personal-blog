@@ -1,54 +1,33 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
+title: "Google Forms to Slack"
+date: "2021-08-10T07:15:53+0000"
 template: "post"
-draft: true
-slug: "a-brief-history-of-typography"
-category: "Design Inspiration"
+draft: false
+slug: "google-forms-to-slack"
+category: "Tools"
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+  - "Slack"
+  - "Google FromsAddon"
+description: "Integrate Google Froms and Slack to send Personalised Message including answers to the questions on new form submission"
 socialImage: "/media/image-0.jpg"
 ---
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. _Aenean ultricies mi vitae est._ Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+So For my product [blurweb.app](https://blurweb.app) I have an affiliate program, To apply for it people submit a google form now the problem is i was not receiving notification for it.
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. [Donec non enim](#) in turpis pulvinar facilisis.
+Email is full so even if i setup email notifications i might or might not get it, i have been using slack to connect with founders communities so i decided to integrate slack with google forms.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-0.jpg)
+When i searched i didn't find a simple solution. So i build [slacknotify.app](https://www.slacknotify.app) - its a google forms addon just intall submit webhook url(two clicks to get this) write personalised message and you are done.
 
-## Header Level 2
+- Step1: [Install SlackNotify](https://workspace.google.com/marketplace/app/slack_notifications_for_google_forms/451493071820)
+- Step2: Create a slack app and get webhook url
+  visit: [Create App](https://api.slack.com/messaging/webhooks)
 
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
+`video: /media/slackwebhookurl.mp4`
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat.
+- Step3: Open/Create new Google form, click on addons and click on slacknotify.
 
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
+In the app enter the webhook url and personalised message and click on submit. That's all now submit the google forms and you will get notification in slack.
 
-### Header Level 3
+if face any problem please send a mail at contact@sanskar.dev
 
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+so as you can see Sharing Google Form response in slack, as direct message or as a channel message can be done very easily with slacknotify.app
