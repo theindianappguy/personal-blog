@@ -4,7 +4,7 @@ date: "2021-08-10T05:28:33+0000"
 template: "post"
 draft: false
 slug: "blur-content-of-chats-while-screen-sharing"
-category: "Typography"
+category: "Creator Tips"
 tags:
   - "Blurweb App"
   - "Screen Sharing Chats"
