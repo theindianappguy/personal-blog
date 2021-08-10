@@ -26,6 +26,8 @@ When i searched i didn't find a simple solution. So i build [slacknotify.app](ht
 
 - Step3: Open/Create new Google form, click on addons and click on slacknotify.
 
+`video: /media/use-slacknotify-app.mp4`
+
 In the app enter the webhook url and personalised message and click on submit. That's all now submit the google forms and you will get notification in slack.
 
 if face any problem please send a mail at contact@sanskar.dev
