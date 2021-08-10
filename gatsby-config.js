@@ -125,6 +125,19 @@ module.exports = {
             },
           },
           {
+            resolve: "gatsby-remark-video",
+            options: {
+              width: 800,
+              height: "auto",
+              preload: "auto",
+              muted: true,
+              autoplay: true,
+              playsinline: true,
+              controls: true,
+              loop: true,
+            },
+          },
+          {
             resolve: "gatsby-remark-responsive-iframe",
             options: { wrapperStyle: "margin-bottom: 1.0725rem" },
           },
@@ -217,8 +230,7 @@ module.exports = {
             },
             {
               // Add runtime caching of various other page resources
-              urlPattern:
-                /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
+              urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
               handler: "StaleWhileRevalidate",
             },
             {
