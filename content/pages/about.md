@@ -4,10 +4,16 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+👋 Hi, I'm Sanskar and I make apps.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I am currently working on
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+- [Blurweb App](https://blurweb.app) - Hide Sensitive information while screen sharing
+- [SendSimple App](https://www.sendsimple.app) - Put your email outreach on autopilot
+- [Epictexting App](https://www.epictexting.app) - Send SMS messages from your Google sheet
+- [Certifysimple App](https://www.certifysimple.app) - Create & Send Certificates in Bulk with Google Slides & Gmail.
+- [Slacknotify App](https://www.slacknotify.app) - Slack Notifications for Google Forms.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+And a multiple projects which are not live yet.
+
+You can contact me at contact@sanskar.dev
