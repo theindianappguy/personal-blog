@@ -28,7 +28,8 @@ module.exports = {
   author: {
     name: "Sanskar Tiwari",
     photo: "/photo.png",
-    bio: "I build micro saas business and document bootstrapping journey.",
+    bio:
+      "I build and promote micro saas business and document bootstrapping journey.",
     contacts: {
       email: "",
       facebook: "#",
