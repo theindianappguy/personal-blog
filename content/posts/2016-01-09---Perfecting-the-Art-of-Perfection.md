@@ -1,6 +1,6 @@
 ---
 title: Setup - Slack Notifications for Google Forms™
-date: "2016-09-01T23:46:37.121Z"
+date: "2021-08-12T07:10:57+0000"
 template: "post"
 draft: false
 slug: "get-started-slack-notifications-for-google-forms"
