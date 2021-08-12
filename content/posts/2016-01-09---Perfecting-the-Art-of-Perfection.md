@@ -1,21 +1,36 @@
 ---
-title: Perfecting the Art of Perfection
+title: Setup - Slack Notifications for Google Forms™
 date: "2016-09-01T23:46:37.121Z"
 template: "post"
-draft: true
-slug: "perfecting-the-art-of-perfection"
+draft: false
+slug: "get-started-slack-notifications-for-google-forms"
 category: "Design Inspiration"
 tags:
   - "Handwriting"
   - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+description: "I will show how to setup SlackNotify App to receive slack notifications on google form submit."
 socialImage: "/media/image-2.jpg"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+`youtube:https://www.youtube.com/embed/CgrSBzgElyE`
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+I will show how to setup SlackNotify App to receive slack notifications on google form submit.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
+This is a Two Step Process:
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+1. Slack Setup
+2. Google Form Setup
+
+## Slack Setup
+
+Visit: https://api.slack.com/messaging/webhooks here we will create an app provide it a name and generate a incoming webhook url (follow the video)
+
+Once done we will have a webhook url.
+
+## Google Form Setup
+
+1. Install SlackNotify App → https://www.slacknotify.app
+2. Open any google form or create new.
+3. Open SlackNotify App and Add Rule, submit the webhook url write the message template and click add trigger.
+
+That is all. Now open the form and submit it and check if face any problem please send a mail at sanskar@slacknotify.app
