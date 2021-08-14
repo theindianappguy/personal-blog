@@ -4,10 +4,10 @@ date: "2021-08-12T07:10:57+0000"
 template: "post"
 draft: false
 slug: "get-started-slack-notifications-for-google-forms"
-category: "Design Inspiration"
+category: "TOOLS"
 tags:
-  - "Handwriting"
-  - "Learning to write"
+  - "Google Form to Slack"
+  - "Google Form response in slack"
 description: "I will show how to setup SlackNotify App to receive slack notifications on google form submit."
 socialImage: "/media/image-2.jpg"
 ---
