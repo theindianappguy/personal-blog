@@ -9,7 +9,7 @@ tags:
   - "Google Form to Slack"
   - "Google Form response in slack"
 description: "I will show how to setup SlackNotify App to receive slack notifications on google form submit."
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/slack-notification-google-forms.jpeg"
 ---
 
 `youtube:https://www.youtube.com/embed/CgrSBzgElyE`
